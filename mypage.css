@@ -1,0 +1,33 @@
+.jumbotron {
+    background:url(about.jpg) center no-repeat; background-size: cover;
+    color: #fff;
+}
+
+#footer {
+    text-align: center
+}
+
+
+/*
+.jumbotron h1 {
+    filter:dropshadow(color=#000000,offX= 0,offY=-1)
+    dropshadow(color=#000000,offX= 1,offY= 0)
+    dropshadow(color=#000000,offX= 0,offY= 1)
+    dropshadow(color=#000000,offX=-1,offY= 0);
+    -webkit-text-stroke-color: #FFF;
+    -webkit-text-stroke-width: 1px;
+    text-shadow: black 1px 1px 0px, black -1px 1px 0px,
+                 black 1px -1px 0px, black -1px -1px 0px;
+}
+.jumbotron p {
+    font-size: 16px;
+    filter:dropshadow(color=#000000,offX= 0,offY=-1)
+    dropshadow(color=#000000,offX= 1,offY= 0)
+    dropshadow(color=#000000,offX= 0,offY= 1)
+    dropshadow(color=#000000,offX=-1,offY= 0);
+    -webkit-text-stroke-color: #FFF;
+    -webkit-text-stroke-width: 1px;
+    text-shadow: black 1px 1px 0px, black -1px 1px 0px,
+                 black 1px -1px 0px, black -1px -1px 0px;
+}
+*/
